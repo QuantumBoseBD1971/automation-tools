@@ -36,6 +36,8 @@ Desktop app for replacing address blocks in PDFs:
 - Preview replacement
 - Save corrected file
 
+📂 Folder: `pdf-address-editor/`
+
 👉 Main repo:  
 https://github.com/QuantumBoseBD1971/pdf-address-editor
 
@@ -64,6 +66,9 @@ Adaptive scraping toolkit for extracting structured data from static and dynamic
 - Structured data extraction (JSON / CSV)  
 
 📂 Folder: `smart-scraping-toolkit/`
+
+👉 Main repo:  
+https://github.com/QuantumBoseBD1971/smart-scraping-toolkit
 
 ---
 
