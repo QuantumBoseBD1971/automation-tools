@@ -1,6 +1,12 @@
 
 # PDF Address Editor
 
+![Frontend](https://img.shields.io/badge/Frontend-React-blue)
+![Desktop](https://img.shields.io/badge/Desktop-Electron-darkgreen)
+![Backend](https://img.shields.io/badge/Backend-Python-yellow)
+![PDF](https://img.shields.io/badge/Library-PyMuPDF-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 A desktop application for visually editing address blocks in PDF documents.
 
 ---
