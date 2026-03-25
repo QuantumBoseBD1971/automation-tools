@@ -41,14 +41,29 @@ https://github.com/QuantumBoseBD1971/pdf-address-editor
 
 ---
 
-### 🔹 File Processing Tools *(coming soon)*
-- Batch renaming
-- Data cleaning utilities
+### 🔹 Document Processing Pipeline
+
+Automation framework for extracting structured data from static and dynamic web sources.
+
+- Static scraping using HTTP + HTML parsing  
+- Dynamic scraping using browser automation  
+- Adaptive strategy selection  
+- Structured output generation  
+
+📂 Folder: `smart-scraping-toolkit/`
 
 ---
 
-### 🔹 Web Scraping Utilities *(coming soon)*
-- Extracting structured data from dynamic sites
+### 🔹 Smart Scraping Toolkit
+
+Adaptive scraping toolkit for extracting structured data from static and dynamic websites.
+
+- Static site scraping (HTML parsing)  
+- Dynamic site scraping (JavaScript-rendered pages)  
+- Strategy selection based on page behaviour  
+- Structured data extraction (JSON / CSV)  
+
+📂 Folder: `smart-scraping-toolkit/`
 
 ---
 
