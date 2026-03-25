@@ -23,6 +23,10 @@ Instead of manually editing PDFs, users can:
 - save a corrected version of the document
 
 ---
+## 📸 Screenshot
+
+![App Screenshot](../assets/pdf-editor-preview.png)
+---
 
 ## 🚀 Key Features
 
