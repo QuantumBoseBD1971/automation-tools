@@ -1,5 +1,11 @@
 # Document Processing Pipeline
 
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![PDF](https://img.shields.io/badge/Library-PyMuPDF-orange)
+![Data](https://img.shields.io/badge/Data-Pandas-yellow)
+![Type](https://img.shields.io/badge/Type-Data%20Pipeline-purple)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 A scalable automation pipeline for extracting structured data from PDF documents.
 
 ---
